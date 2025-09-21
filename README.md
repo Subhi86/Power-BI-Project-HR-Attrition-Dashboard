@@ -4,7 +4,7 @@
 
 This project is an interactive HR analytics dashboard built with Power BI, designed to provide insights into employee attrition trends and workforce demographics. The dashboard helps HR managers and decision-makers identify key factors influencing employee turnover and workforce distribution.
 
-#Features:
+# Features:
 
 Workforce Overview: Track total employees, active employees, attrition count, and attrition rate.
 
@@ -18,7 +18,7 @@ Age-wise Distribution: View the number of employees across different age bins an
 
 Job Satisfaction Analysis: Breakdown of job satisfaction ratings (1–4) by role.
 
-#Key Visualizations:
+# Key Visualizations:
 
 KPI Cards: High-level metrics for employee count, attrition rate, and active employees.
 
@@ -30,4 +30,4 @@ Matrix Table: Job satisfaction ratings by job role.
 
 This dashboard enables HR teams to monitor attrition patterns, identify high-risk groups, and support data-driven retention strategies.
 
-#Screenshot:
+# Screenshot:
