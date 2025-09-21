@@ -31,3 +31,4 @@ Matrix Table: Job satisfaction ratings by job role.
 This dashboard enables HR teams to monitor attrition patterns, identify high-risk groups, and support data-driven retention strategies.
 
 # Screenshot:
+![Dashboard Screenshot](Screenshot3.png)
